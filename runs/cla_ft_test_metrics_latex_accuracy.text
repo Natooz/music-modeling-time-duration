@@ -1,0 +1,9 @@
+\begin{tabular}{llll}
+\toprule
+{} & cla\_composer\_20\_GiantMIDI & cla\_composer\_100\_GiantMIDI & cla\_emotion\_EMOPIA \\
+\midrule
+TSD      &                  0.973304 &                   0.941267 &           0.983063 \\
+REMI     &                  0.969486 &                   0.927268 &           0.962888 \\
+MIDILike &                  0.962138 &                   0.930116 &           0.961759 \\
+\bottomrule
+\end{tabular}
