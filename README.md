@@ -1,8 +1,8 @@
 # Impact of time and note duration tokenizations on deep learning symbolic music modeling
 
-Code of the paper [*Impact of time and note duration tokenizations on deep learning symbolic music modeling*](https://arxiv.org/abs/2301.11975).
+Code of the paper [*Impact of time and note duration tokenizations on deep learning symbolic music modeling*](https://arxiv.org/abs/2310.08497).
 
-In this work, we analyze the current common tokenization methods and experiment with time and note duration representations. We compare the performance of these two impactful criteria on several tasks, including composer classification, emotion classification, music generation, and sequence representation. We demonstrate that explicit information leads to better results depending on the task at hand.
+In this work, we analyze the current common tokenization methods and experiment with time and note duration representations. We compare the performance of these two impactful criteria on several tasks, including composer classification, emotion classification, music generation, and sequence representation.
 
 ## Steps to reproduce
 
@@ -14,7 +14,3 @@ In this work, we analyze the current common tokenization methods and experiment 
 6. `python exp_pretrain.py` to pretrain classification and contrastive models
 7. `python exp_cla_finetune.py` to train classification models and test them
 8. `python exp_contrastive.py` to train contrastive models and test them
-
-## Model weights
-
-You can download all models weights along with training files [on this repository]().
