@@ -1,6 +1,6 @@
 # Impact of time and note duration tokenizations on deep learning symbolic music modeling
 
-Code of the paper [*Impact of time and note duration tokenizations on deep learning symbolic music modeling*](https://arxiv.org/abs/2310.08497).
+Code of the paper [*Impact of time and note duration tokenizations on deep learning symbolic music modeling*](https://arxiv.org/abs/2310.08497). (ISMIR 2023)
 
 In this work, we analyze the current common tokenization methods and experiment with time and note duration representations. We compare the performance of these two impactful criteria on several tasks, including composer classification, emotion classification, music generation, and sequence representation.
 
